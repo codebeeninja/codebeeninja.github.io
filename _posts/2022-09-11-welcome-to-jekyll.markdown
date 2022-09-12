@@ -1,29 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why Code Bee?"
 date:   2022-09-11 20:37:27 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+We saw many students learning programming and after learning a language, they will not be able to write a code for a single problem on their own. The problem is not with the student, it is with the approach they have used to learn the language. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Besides, there is a difference between learning a programming language and learning programming. !! The aforementioned students are the former whereas at Code Bee we teach the later (Programming along with programming language).
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We will teach you the problem solving techniques which will lay as a foundation to learn and master any programming language with competitiveness on your own.
 
-Jekyll also offers powerful support for code snippets:
+From recorded videos, live training, office hours, integrated assignments, weekly quizzes to many more all in a single platform available to you to have an excellent learning experience.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Our 1:1 personal sessions include customised curriculum suiting the need of the student to start from where they are at in the journey of learning programming.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+From 6th Grade to graduates to professionals, we train different age group of students & professionals in programming.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+For more details visit https://codebee.ninja
+To contact us send an email to sathish@codebee.ninja
+
+Team,
+Code Bee
