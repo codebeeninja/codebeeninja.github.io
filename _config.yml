@@ -21,12 +21,8 @@
 title: Code Bee
 email: sathish@codebee.ninja
 description: >- # this means to ignore newlines until "baseurl:"
-  Code Bee is a platform that provides short-term, long-term, bootcamp, 1:1 tutor training programs in 
-  Problem Solving, C/C++ Programming, Java Programming, Python Programming, R Programming, R for Data Science,
-  Python for Data Science, Git&Github, DSA: Data Structures and Algorithms in C, C++, Java, Python;
-  Object Oriented Programming in C++, Java, Python; Databases, Full Stack Web Development using LAMP Stack,
-  Full Stack Web Development using MERN Stack, Android App Development, Firebase Essentials, Front End Web Technologies,
-  Competitive Programming and Flutter App Development.
+  CodeBee is a platform that helps students & professionals to learn programming from the fundamentals to 
+  advanced.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.codebee.ninja" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sathish_twit
@@ -36,6 +32,13 @@ github_username:  codebeeninja
 theme: minima
 plugins:
   - jekyll-feed
+
+# Code Bee is a platform that provides short-term, long-term, bootcamp, 1:1 tutor training programs in 
+# Problem Solving, C/C++ Programming, Java Programming, Python Programming, R Programming, R for Data Science,
+# Python for Data Science, Git&Github, DSA: Data Structures and Algorithms in C, C++, Java, Python;
+# Object Oriented Programming in C++, Java, Python; Databases, Full Stack Web Development using LAMP Stack,
+# Full Stack Web Development using MERN Stack, Android App Development, Firebase Essentials, Front End Web Technologies,
+# Competitive Programming and Flutter App Development.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
