@@ -28,10 +28,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Full Stack Web Development using MERN Stack, Android App Development, Firebase Essentials, Front End Web Technologies,
   Competitive Programming and Flutter App Development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://codebeeninja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codebee.ninja" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sathish_twit
 github_username:  codebeeninja
-domain: codebeeninja.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# domain: codebeeninja.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 # Build settings
 theme: minima
 plugins:
